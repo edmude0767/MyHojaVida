@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MyHojaVida/static/css/main.d536eaf1.css",
+    "main.js": "/MyHojaVida/static/js/main.6a052ba5.js",
+    "index.html": "/MyHojaVida/index.html",
+    "main.d536eaf1.css.map": "/MyHojaVida/static/css/main.d536eaf1.css.map",
+    "main.6a052ba5.js.map": "/MyHojaVida/static/js/main.6a052ba5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d536eaf1.css",
+    "static/js/main.6a052ba5.js"
+  ]
+}
