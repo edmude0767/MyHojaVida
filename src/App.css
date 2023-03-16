@@ -1,0 +1,59 @@
+
+.wrapper{
+  padding-top:30px;
+}
+.body h3{
+  margin-bottom: 25px;
+
+}
+.navbar-brand a{
+  color: #2f302f;
+
+}
+
+.form-wrapper,
+.table-wrapper{
+  max-width:500px;
+  margin:0 auto;
+}
+.table-wrapper{
+  max-width:700px;
+}
+.edit-link{
+  padding: 7px 10px;
+  font: size 0.875rem;
+  line-height: normal;
+  border-radius:0.2rem;
+  color: rgb(10, 169, 44);
+  background-color:hsla(135, 24%, 7%, 0.797);
+  border-color:#28a745;
+  margin-right:10px;
+  position: relative;
+  top:1px;
+}
+.edit-link:hover {
+  text-decoration: none;
+  color: #ece5e5dd;
+}
+
+
+.Dropdown.Toggle{
+
+  height:100%;
+  width:100%;
+  color: rgb(74, 10, 169);
+
+}
+
+.Dropdown.Item{
+
+  height:100%;
+  width:100%;
+  color: rgb(74, 10, 169);
+
+}
+
+
+
+
+
