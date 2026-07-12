@@ -10,6 +10,52 @@ function ExperienciaL() {
           <><></><div><h1>Experiencia Laboral</h1></div>
 
     <Accordion defaultActiveKey="0">
+    <Accordion.Item eventKey="0">
+  <Accordion.Header>
+    <img
+      width="50"
+      height="50"
+      src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+      alt="Riesgos"
+    />
+    <br />
+    <h5>Febrero 2023 - Actualidad Almagrario</h6>
+
+    <h6>Funciones:</h6>
+
+    1. Liderar la identificación, análisis, evaluación y mitigación de riesgos internos asociados a hurtos, fraudes, intrusiones y pérdidas operativas.<br/>
+
+    2. Diseñar, implementar y realizar seguimiento a controles orientados a la protección de activos y reducción de riesgos operacionales.<br/>
+
+    3. Realizar evaluaciones de vulnerabilidades, investigaciones internas y análisis de incidentes para definir acciones correctivas y preventivas.<br/>
+
+    4. Monitorear indicadores de gestión y riesgo para apoyar la toma de decisiones y el fortalecimiento del control interno.<br/>
+
+    5. Elaborar informes ejecutivos y presentar resultados de gestión a la dirección regional y nacional.<br/>
+
+    6. Realizar seguimiento al cumplimiento de procedimientos, políticas y controles establecidos por la organización.<br/>
+
+    7. Coordinar planes de mejora orientados a la prevención de pérdidas, reducción de riesgos y fortalecimiento de la continuidad operativa.<br/>
+
+    <br/>
+
+    <h6>Logros destacados:</h6>
+
+    • Participación en la implementación de un sistema analítico para la detección de hurtos, fraudes e intrusiones mediante análisis de datos.<br/>
+
+    • Desarrollo de soluciones mediante Power Apps para optimizar procesos de gestión y seguimiento.<br/>
+
+    • Automatización de procesos mediante Power Automate.<br/>
+
+    • Diseño de indicadores y tableros de control utilizando Power BI.<br/>
+
+    • Implementación de herramientas de gestión de información utilizando SharePoint.<br/>
+
+    • Uso de Microsoft Copilot para optimizar procesos de análisis, documentación y generación de informes.<br/>
+
+  </Accordion.Body>
+</Accordion.Item>
+      
       <Accordion.Item eventKey="0">
         <Accordion.Header><img width="50" height="50" src="https://e7.pngegg.com/pngimages/514/269/png-clipart-g4s-secure-solutions-security-company-safety-others-miscellaneous-text.png" alt=" " ></img>
         <br/><h5>Enero 2016 - Diciembre 2020 G4S</h5></Accordion.Header>
